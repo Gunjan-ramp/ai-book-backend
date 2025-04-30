@@ -1,0 +1,22 @@
+12:59:31,468 root DEBUG creating engine for bronze connection
+12:59:31,468 root DEBUG Server: 161.97.142.50, Driver: ODBC Driver 18 for SQL Server, Username: ra, Password: ramp@123, Database: library_management
+13:01:25,917 root DEBUG creating engine for bronze connection
+13:01:25,917 root DEBUG Server: 161.97.142.50, Driver: ODBC Driver 18 for SQL Server, Username: ra, Password: ramp@123, Database: library_management
+13:02:46,243 root DEBUG creating engine for bronze connection
+13:02:46,243 root DEBUG Server: 161.97.142.50, Driver: ODBC Driver 18 for SQL Server, Username: ra, Password: ramp@123, Database: library_management
+13:03:34,815 root DEBUG creating engine for bronze connection
+13:03:34,815 root DEBUG Server: 161.97.142.50, Driver: ODBC Driver 18 for SQL Server, Username: ra, Password: ramp@123, Database: library_management
+13:04:25,751 root DEBUG creating engine for bronze connection
+13:04:25,751 root DEBUG Server: 161.97.142.50, Driver: ODBC Driver 18 for SQL Server, Username: ra, Password: ramp@123, Database: library_management
+13:15:22,241 root DEBUG Creating engine for bronze connection
+13:15:22,241 root DEBUG Server: None, Driver: ODBC Driver 18 for SQL Server, Username: ra, Database: None
+13:15:22,263 root INFO Successfully connected to None
+13:17:05,522 root DEBUG Creating engine for bronze connection
+13:17:05,522 root DEBUG Server: None, Driver: ODBC Driver 18 for SQL Server, Username: ra, Database: None
+13:17:05,550 root INFO Successfully connected to None
+13:19:22,851 root DEBUG Creating engine for bronze connection
+13:19:22,851 root DEBUG Server: None, Driver: ODBC Driver 18 for SQL Server, Username: ra, Database: None
+13:19:22,873 root INFO Successfully connected to None
+13:26:32,834 root DEBUG Creating engine for bronze connection
+13:26:32,835 root DEBUG Server: 161.97.142.50, Driver: ODBC Driver 18 for SQL Server, Username: ra, Database: library_management
+13:26:32,894 root INFO Successfully connected to library_management
