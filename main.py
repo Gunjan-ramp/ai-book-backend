@@ -6,19 +6,16 @@ from database import SessionLocal, engine, Base, get_db
 from ai import generate_ai_tagline  # Import the function from the ai.py module
 
 
-
-
-# Create database tables
 Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # List of origins that are allowed to connect
+    allow_origins=["*"],  
     allow_credentials=False,
-    allow_methods=["*"],  # Allow all HTTP methods
-    allow_headers=["*"],  # Allow all headers
+    allow_methods=["*"],  
+    allow_headers=["*"],  
 )
 
 @app.get("/")
